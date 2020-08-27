@@ -1,24 +1,21 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Blog app created with Ruby on Rails for practicing Ruby on Rails. :smiley:
 
-Things you may want to cover:
+## Prerequisites
 
-* Ruby version
+Go to (Install Rails website)[http://installrails.com/] to install all the required software on your machine.
 
-* System dependencies
+## Run the app locally
 
-* Configuration
+* Clone this repo `git clone https://github.com/mohammadumar28/blog-rails.git`
+* Change to the cloned directory `cd blog-rails`
+* Install all the gems `bundle install`
+* Migrate the database `rails db:migrate`
+* Start the application `rails server` or `rails s`
 
-* Database creation
+## Acknowledgement
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* (Andy Leverenz)[https://github.com/justalever]
+* (Youtube Tutorial)[https://youtu.be/wbZ6yrVxScM]
+* (freecodecamp.org Youtube Channel)[https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ]
