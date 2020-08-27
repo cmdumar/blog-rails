@@ -4,7 +4,7 @@ A Blog app created with Ruby on Rails for practicing Ruby on Rails. :smiley:
 
 ## Prerequisites
 
-Go to (Install Rails website)[http://installrails.com/] to install all the required software on your machine.
+Go to [Install Rails website](http://installrails.com/) to install all the required software on your machine.
 
 ## Run the app locally
 
@@ -16,6 +16,6 @@ Go to (Install Rails website)[http://installrails.com/] to install all the requi
 
 ## Acknowledgement
 
-* (Andy Leverenz)[https://github.com/justalever]
-* (Youtube Tutorial)[https://youtu.be/wbZ6yrVxScM]
-* (freecodecamp.org Youtube Channel)[https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ]
+* [Andy Leverenz](https://github.com/justalever)
+* [Youtube Video](https://youtu.be/wbZ6yrVxScM)
+* [Freecodecamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
